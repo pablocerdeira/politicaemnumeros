@@ -9,3 +9,7 @@ draft: false
 Quem está escrevendo isso é Fabion Vasconcellos.
 
 Tchau que vou dar aula.
+
+-----
+
+**Escrevendo isso em negrito** e *isso em itálico*.
