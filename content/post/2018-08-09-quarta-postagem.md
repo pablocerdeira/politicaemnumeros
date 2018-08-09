@@ -4,8 +4,6 @@ date: 2018-08-09T17:18:13-03:00
 draft: false
 ---
 
-## Quarta Postagem
-
 Quem está escrevendo isso é Fabio Vasconcellos.
 
 Tchau que vou dar aula.
