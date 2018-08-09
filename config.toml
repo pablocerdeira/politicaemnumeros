@@ -1,4 +1,4 @@
-baseURL = "https://politicaemnumeros.netlify.com"
+baseURL = "https://politicaemnumeros.netlify.com/"
 languageCode = "en-us"
 title = "Política em Números"
 theme = "tale"
