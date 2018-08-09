@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Política em Números</title>
+    <link>http://127.0.0.1:1313/</link>
+    <description>Recent content on Política em Números</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Aug 2018 16:47:44 -0300</lastBuildDate>
+    
+	<atom:link href="http://127.0.0.1:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018 08 09 Segunda Postagem</title>
+      <link>http://127.0.0.1:1313/post/2018-08-09-segunda-postagem/</link>
+      <pubDate>Thu, 09 Aug 2018 16:47:44 -0300</pubDate>
+      
+      <guid>http://127.0.0.1:1313/post/2018-08-09-segunda-postagem/</guid>
+      <description>Segunda Postagem Será que renderizará legal?
+Vamos ver.</description>
+    </item>
+    
+    <item>
+      <title>2018 08 09 Primeira Postagem</title>
+      <link>http://127.0.0.1:1313/post/2018-08-09-primeira-postagem/</link>
+      <pubDate>Thu, 09 Aug 2018 16:44:13 -0300</pubDate>
+      
+      <guid>http://127.0.0.1:1313/post/2018-08-09-primeira-postagem/</guid>
+      <description>Primeira Postagem Este é nosso primeiro post. Vamos ver como fica.
+abs</description>
+    </item>
+    
+  </channel>
+</rss>
