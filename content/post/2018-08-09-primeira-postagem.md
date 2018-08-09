@@ -1,5 +1,5 @@
 ---
-title: "2018 08 09 Primeira Postagem"
+title: "Primeira Postagem"
 date: 2018-08-09T16:44:13-03:00
 draft: false
 ---
