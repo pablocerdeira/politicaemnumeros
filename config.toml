@@ -1,7 +1,7 @@
 baseURL = "https://politicaemnumeros.netlify.com/"
 languageCode = "en-us"
 title = "Política em Números"
-theme = "tale"
+theme = "hugo-theme-cleanwhite"
 
 
 [[menu.main]]
