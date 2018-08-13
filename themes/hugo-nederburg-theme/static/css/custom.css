@@ -1882,7 +1882,7 @@ li.pingback:first-child {
   position: relative;
   left: -6%;
   width: 112%;
-  min-height: 3em;
+  height: 1em;
   background: #110800;
   padding: 0.375em 5.55%;
   margin: -0.75em 0 0;
