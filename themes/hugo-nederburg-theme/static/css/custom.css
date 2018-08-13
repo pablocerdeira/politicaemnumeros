@@ -499,7 +499,7 @@ a img {
   font-size: 1em;
   margin: 0;
   padding: 0 0 0 1.5em;
-  color: white;
+  color: black;
   opacity: 0.6;
   -webkit-transition: opacity 0.2s ease;
           transition: opacity 0.2s ease;
@@ -539,7 +539,7 @@ a img {
 
 .site-header .site-description {
   opacity: 0;
-  color: white;
+  color: black;
 }
 
 .menu-unset > ul,
@@ -550,7 +550,7 @@ a img {
 .menu-unset > ul a,
 .menu-primary-items a {
   display: block;
-  color: white;
+  color: black;
   opacity: 0.6;
   margin: 1.5em 0 0.75em 0;
   -webkit-backface-visibility: hidden;
@@ -563,7 +563,7 @@ a img {
 .menu-unset > ul a:link, .menu-unset > ul a:visited,
 .menu-primary-items a:link,
 .menu-primary-items a:visited {
-  color: white;
+  color: gray;
 }
 .menu-unset > ul a:hover, .menu-unset > ul a:active, .menu-unset > ul a:focus,
 .menu-primary-items a:hover,
@@ -692,7 +692,7 @@ a img {
     position: absolute;
     right: -6px;
     top: 0;
-    color: white;
+    color: black;
     opacity: 0.6;
   }
   .menu-unset > ul > li:last-child:after,
@@ -1961,15 +1961,15 @@ li.pingback:first-child {
           transition: all 0.3s ease;
 }
 .menu-secondary-items a {
-  color: white;
+  color: black;
   opacity: 0.4;
   margin-right: 0.75em;
 }
 .menu-secondary-items a:link, .menu-secondary-items a:visited {
-  color: white;
+  color: black;
 }
 .menu-secondary-items a:hover, .menu-secondary-items a:active, .menu-secondary-items a:focus {
-  color: white;
+  color: black;
   opacity: 0.9;
 }
 .menu-secondary-items ul {
@@ -2006,7 +2006,7 @@ li.pingback:first-child {
   .menu-secondary-items:before {
     content: '//';
     margin-right: 16px;
-    color: white;
+    color: black;
     opacity: 0.4;
   }
   .menu-secondary-items li,
@@ -2113,7 +2113,7 @@ li.pingback:first-child {
 .site-header .search-form-container i {
   position: relative;
   z-index: 9;
-  color: white;
+  color: black;
   opacity: 0.4;
   line-height: 1.5;
   -webkit-transition: opacity 0.2s ease;
