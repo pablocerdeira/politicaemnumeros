@@ -68,7 +68,7 @@ body {
   font-family: "raleway", sans-serif;
   line-height: 1.5;
   color: #4d4d4d;
-  background: #38312f;
+  background: #ffffff;
   -webkit-font-smoothing: antialiased;
   word-wrap: break-word;
   -ms-word-wrap: break-word;
@@ -82,7 +82,7 @@ body {
 }
 
 .main {
-  background: #38312f;
+  background: #ffffff;
   padding-bottom: 1.5em;
   margin: 0 auto;
 }
@@ -102,12 +102,12 @@ p {
 
 a {
   text-decoration: none;
-  color: #38312f;
+  color: #000000;
   -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
 }
 a:link {
-  color: #38312f;
+  color: #000000;
 }
 a:visited, a:hover, a:active, a:focus {
   color: black;
