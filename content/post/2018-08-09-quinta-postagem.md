@@ -1,5 +1,5 @@
 ---
-title: Partidos do Centrão mobilizam mais de 25% dos eleitorado
+title: Partidos do Centrão mobilizam mais de 25% do eleitorado
 date: 2018-08-09T17:25:13-03:00
 draft: false
 thumbnail: "images/thumbnail.jpg" # Optional, referenced at `$HUGO_ROOT/static/images/thumbnail.jpg`
